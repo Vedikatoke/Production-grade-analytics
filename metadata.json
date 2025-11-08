@@ -1,0 +1,5 @@
+{
+  "name": " Vanna AI Analytics Dashboard",
+  "description": "An interactive analytics dashboard and a 'Chat with Data' interface powered by Gemini, allowing natural-language queries on invoice and vendor data.",
+  "requestFramePermissions": []
+}
